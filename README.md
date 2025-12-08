@@ -1,7 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Ava Wang 👋  
 
-<!--
-**BiqiaoWang/BiqiaoWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Data Analyst | MADS Student at the University of Canterbury**
+
+I'm a Data Analyst based in Christchurch, New Zealand.  
+---
+
+## 🔧 **Skills & Tools**
+
+### **Data & Analytics**
+- SQL  
+- Python  
+- R  
+- Power BI  
+- Tableau  
+- Excel  
+
+### **Finance**
+- Financial Analysis  
+- KPI Analysis  
+- Budgeting & Forecasting  
+
+---
+
+## 📊 **My Projects**
+
+### **1️⃣ AI-Agent (Python + LLM)**  
+
 
 Here are some ideas to get you started:
 
