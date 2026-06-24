@@ -1,40 +1,23 @@
 # Hi there! I'm Ava Wang 👋  
 
-### **Data Analyst | MADS Student at the University of Canterbury**
+### Data Analyst | Master of Applied Data Science Graduate, University of Canterbury
 
-I'm a Data Analyst based in Christchurch, New Zealand.  
+I'm a Data Analyst based in Christchurch, New Zealand.
 ---
 
 ## 🔧 **Skills & Tools**
 
-### **Data & Analytics**
-- SQL  
-- Python  
-- R  
-- Power BI  
-- Tableau  
-- Excel  
+### Data & Analytics
+Python | SQL | R | Power BI | Tableau | Excel
 
-### **Finance**
-- Financial Analysis  
-- KPI Analysis  
-- Budgeting & Forecasting  
-
----
 
 ## 📊 **My Projects**
 
-### **1️⃣ AI-Agent (Python + LLM)**  
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. Music Genre Classification & Recommendation (Spark + Machine Learning)
+Music genre classification and recommendation system using Spark and machine learning techniques.
+### 2. AI-Agent (Python + LLM)
+Customer support AI agent project involving data cleaning, sentiment classification, workflow design, and LLM model evaluation.
+### 3. Superstore Sales Analysis (Python)
+Business intelligence project analysing sales performance, customer behaviour, and regional trends using Python.
+### 4. NZ Police Crime Analysis (R)
+Exploratory data analysis and visualisation of New Zealand police crime data using R.
