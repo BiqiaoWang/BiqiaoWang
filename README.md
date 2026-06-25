@@ -7,7 +7,6 @@ I'm a Data Analyst based in Christchurch, New Zealand.
 
 ## 🔧 **Skills & Tools**
 
-### Data & Analytics
 Python | SQL | R | Power BI | Tableau | Excel
 
 
