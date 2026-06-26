@@ -12,7 +12,7 @@ Python | SQL | R | Power BI | Tableau | Excel
 
 ## 📊 **My Projects**
 ### 1. Tweet Sentiment Classification using NLP and Machine Learning
-- An NLP project comparing different text features and machine learning models for negative tweet classification.
+- This project investigates which NLP features are most effective for identifying negative tweets. Multiple feature engineering techniques and machine learning models were evaluated using Recall and F1-score.
 
 ### 2. Music Genre Classification & Recommendation (Spark + Machine Learning)
 - Music genre classification and recommendation system using Spark and machine learning techniques.
