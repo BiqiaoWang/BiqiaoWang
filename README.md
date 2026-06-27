@@ -1,8 +1,6 @@
 # Hi there! I'm Ava Wang 👋  
 
-### Master of Applied Data Science Graduate | University of Canterbury
-
-#### Based in New Zealand.
+### Master of Applied Data Science Graduate | University of Canterbury, New Zealand
 
 ## 🛠️ Programming & Tools
 Python | SQL | R | Power BI | Tableau | Excel
