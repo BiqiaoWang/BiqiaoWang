@@ -28,8 +28,8 @@ This was a three-person summer school project. I was responsible for workflow de
 - My individual contributions are presented in the repository above.
 
 ### 6. Tweet Sentiment Classification using NLP and Machine Learning
-- This project investigates which NLP features are most effective for identifying negative tweets. Multiple feature engineering techniques and machine learning models were evaluated using Recall and F1-score.
+This project investigates which NLP features are most effective for identifying negative tweets. Multiple feature engineering techniques and machine learning models were evaluated using Recall and F1-score.
 - Natural Language Processing (NLP) | Feature Engineering | Machine Learning | Model Evaluation
 
 ### 7. Music Genre Classification & Recommendation (Spark + Machine Learning)
-- Music genre classification and recommendation system using Spark and machine learning techniques.
+Music genre classification and recommendation system using Spark and machine learning techniques.
