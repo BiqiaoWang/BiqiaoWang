@@ -2,17 +2,13 @@
 
 ### Master of Applied Data Science Graduate | University of Canterbury
 
-Based in New Zealand.
-
----
+#### Based in New Zealand.
 
 ## 🛠️ Programming & Tools
 Python | SQL | R | Power BI | Tableau | Excel
 
 ## 🧠 Data Science & AI
 Data Analysis | Statistical Modelling | Machine Learning | AI / LLM | Environmental Data Analysis | Sentiment Classification | LLM Evaluation
-
----
 
 ## 📊 **My Projects**
 ### 1. Midge Population & Environmental Data Analysis
