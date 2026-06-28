@@ -7,7 +7,7 @@
 - Data Analysis | Statistical Modelling | Machine Learning | AI / LLM | Environmental Data Analysis | Sentiment Classification | LLM Evaluation
 
 ## 📊 **My Projects**
-> 🚧 **Portfolio is currently being updated. Some projects are temporarily set to **Private** as I am organising them.**
+> 🚧 **Portfolio is currently being updated. Some projects are temporarily set to **Private** as I am organising them.** 🚧
 
 ### 1. Midge Population & Environmental Data Analysis 💧
 Applied statistical modelling using Python to investigate relationships between midge populations, water quality parameters, and weather conditions.
