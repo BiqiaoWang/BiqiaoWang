@@ -17,15 +17,14 @@ This repository showcases my contribution to an AI-Agent project, focusing on ev
 - Sentiment Classification | Model Evaluation | Large Language Models (LLMs)
 - Stratified Sampling | Text Preprocessing | Precision, Recall & F1-score
 
-### 3. Superstore Sales Analysis 
+### 3. AI-Agent 
+This was a three-person summer school project. I was responsible for workflow design, data preprocessing, sentiment classification, and LLM evaluation.
+
+### 4. Superstore Sales Analysis 
 A retail business analytics project analysing sales performance, customer behaviour, and regional trends using Python.
 
-### 4. NZ Police Crime Analysis (R)
+### 5. NZ Police Crime Analysis (R)
 My first university data analysis project using open data from the New Zealand Police.
-
-### 5. AI-Agent 
-This was a three-person summer school project. I was responsible for workflow design, data preprocessing, sentiment classification, and LLM evaluation.
-- My individual contributions are presented in the repository above.
 
 ### 6. Tweet Sentiment Classification using NLP and Machine Learning
 This project investigates which NLP features are most effective for identifying negative tweets. Multiple feature engineering techniques and machine learning models were evaluated using Recall and F1-score.
